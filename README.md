@@ -1,6 +1,8 @@
 # PruebaTecnica
 [Repositorio de Azure DevOps](https://dev.azure.com/jvalendev/_git/Prueba%20Tecnica%20Hunty)
 
+[Repositorio GitHub](https://github.com/julianValenzuelaQA/Prueba_tecnica_hunty.git)
+
 Este proyecto es una prueba técnica de Hunty, en la que se realiza la automatización de la página web [Swag Labs](https://www.saucedemo.com/v1/index.html.) Se utiliza Java como lenguaje de programación, Selenium y Serenity como frameworks de automatización y IntelliJ IDEA como IDE.
 
 # Requisitos
