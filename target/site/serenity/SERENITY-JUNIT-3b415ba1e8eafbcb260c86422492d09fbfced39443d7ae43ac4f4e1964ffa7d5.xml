@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Login to the Sauce Demo website" skipped="0" tests="2" time="22.52" timestamp="2023-06-10 12:32:05"><testcase name="Successful login with standard user"/><testcase name="Failed login with invalid credentials"/></testsuite>
